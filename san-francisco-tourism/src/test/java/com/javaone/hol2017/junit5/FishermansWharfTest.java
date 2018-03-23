@@ -1,9 +1,7 @@
 package com.javaone.hol2017.junit5;
 
-//import static org.junit.Assert.*;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
-//import org.junit.*;
 
 public class FishermansWharfTest {
 
