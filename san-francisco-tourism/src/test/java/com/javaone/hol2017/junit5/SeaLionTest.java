@@ -2,6 +2,7 @@ package com.javaone.hol2017.junit5;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.*;
+import static org.hamcrest.MatcherAssert.assertThat;
 
 /*
  * Clearly this test doesn't cover all the cases, but good enough o show JUnit 5 ;)
